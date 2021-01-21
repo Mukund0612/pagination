@@ -1,0 +1,11 @@
+.header {
+    height: 200px;
+}
+
+.header div {
+    margin-bottom: -30px;
+}
+
+.page-link{
+    color: #111111;
+}
